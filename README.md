@@ -16,3 +16,5 @@
 - Git & GitHub
 
 ## Author
+
+Adilet – a beginner Java developer 🚀
